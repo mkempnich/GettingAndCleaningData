@@ -16,9 +16,9 @@ from the Human Activity Recognition Using Smartphones Data Set (https://d396qusz
 
 The data in the dataset consists of 180 rows and 68 columns: 
 
-•mean(): mean value
+• mean(): mean value
 
-•std(): standard deviation
+• std(): standard deviation
 
 
 ## Identifiers 
