@@ -8,7 +8,7 @@ It contains the script requested in week 4's assignment.
  2) Download the R source code into your R working directory. ("run_analysis.R")
  3) Run above R source code to reproduce the tidy data.
 
-### Data Description (taken from 
+### Data Description
 
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. 
 The variable in the data Y indicates activity type the subjects performed during recording.
